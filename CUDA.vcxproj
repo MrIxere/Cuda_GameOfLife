@@ -145,6 +145,9 @@
   <ItemGroup>
     <CudaCompile Include="Test.cu" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TestCpp.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
     <Import Project="$(VCTargetsPath)\BuildCustomizations\CUDA 11.6.targets" />

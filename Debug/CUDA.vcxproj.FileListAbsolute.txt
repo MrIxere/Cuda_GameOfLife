@@ -1,1 +1,2 @@
 C:\Users\ixere\Desktop\school\CUDA\Debug\CUDA.exe
+C:\Users\ixere\Desktop\school\CudaGameOfLife\Debug\CUDA.exe

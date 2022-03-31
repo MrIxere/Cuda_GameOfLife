@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\ixere\Desktop\school\CUDA\Debug\CUDA.exe</FullPath>
+      <FullPath>C:\Users\ixere\Desktop\school\CudaGameOfLife\Debug\CUDA.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
