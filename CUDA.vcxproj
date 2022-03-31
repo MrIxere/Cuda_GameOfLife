@@ -143,10 +143,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CudaCompile Include="Test.cu" />
+    <CudaCompile Include="GoLCuda.cu" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TestCpp.cpp" />
+    <ClCompile Include="GoLCpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
